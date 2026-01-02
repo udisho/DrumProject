@@ -1,0 +1,26 @@
+# PlatformIO build artifacts
+.pio/
+.build/
+
+# VS Code settings (optional, if you don't want to share)
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Backup files
+*.tmp
+*.bak
+*.swp
+
+# Arduino IDE output (if any)
+*.elf
+*.bin
+*.hex
+
+# Ignore old Arduino .ino files if moved to src/
+*.ino
+
+# Logs
+*.log
+
